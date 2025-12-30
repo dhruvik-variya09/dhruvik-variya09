@@ -36,10 +36,3 @@ More coming soon... 🚧
 ## 🤝 Let's Connect
 - 🔗 **LinkedIn**:  
   https://www.linkedin.com/in/dhruvik-variya
-
-- 💻 **GitHub**:  
-  https://github.com/Dhruvik090
-
----
-
-> 🧠 *“Automating security today to defend better tomorrow.”*
