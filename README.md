@@ -1,71 +1,45 @@
-## 👋 Hi there, I'm Dhruvik — Welcome to My Cybersecurity Space 🛡️
+# 👋 Hi there, I'm Dhruvik Variya – Welcome to My Cybersecurity Space
 
-🎓 MSc IT student specializing in **Cybersecurity & Digital Forensics**  
-🐍 Passionate about **Python-based security tools & Linux internals**  
-
-🔍 My focus areas:
-- Digital forensics & incident analysis
-- Security automation using Python
-- Log, browser & system activity analysis
-- Blue Team / SOC fundamentals
+🎓 I'm currently pursuing my **MSc IT in Cybersecurity & Digital Forensics**  
+🐍 Passionate about **Python scripting, DFIR, and security automation**  
+🛡️ Focused on **Blue Team operations & forensic analysis**
 
 ---
 
-## 🚀 Cybersecurity Projects
+## 🔍 Currently Diving Into
+- 🔐 Log analysis & security scripting  
+- 🚨 SOC alert automation  
+- 🧪 Building cybersecurity tools from scratch  
+- 🌐 Browser & network forensic analysis  
 
-### 🔑 Keylogger (Educational / Forensic Use)
-- Captures keystrokes for **security research and digital forensic analysis**
-- Helps understand:
-  - Input monitoring mechanisms
-  - Insider threat detection
-  - Malware behavior analysis
-- Built using **Python**
-- Designed strictly for **ethical and educational purposes**
-
-🛡️ _Use case_: Malware analysis labs, forensic investigation learning
+💡 I enjoy solving **real-world security problems** by automating repetitive SOC tasks.
 
 ---
 
-### 🌐 Browser History Analyzer
-- Extracts and analyzes browser history from:
-  - Chrome
-  - Firefox
-- Displays:
-  - Visited websites
-  - Search queries
-  - Timestamps
-- Useful in:
-  - Digital forensic investigations
-  - User activity reconstruction
-  - Incident response cases
+## 🚀 Projects I'm Building
+- 🔎 **Chrome Analyzer**  
+  *Extracts & analyzes Chrome browser artifacts for forensic investigations.*
 
-🔍 _Use case_: Forensic timeline creation & behavioral analysis
+- ⌨️ **Key Logger (Educational)**  
+  *Demonstrates keystroke capture concepts for security awareness.*
 
----
+- 🛡️ **Mini SIEM Forensic Suite**  
+  *Network + browser artifact analysis with automated reporting.*
 
-## 🧠 Skills & Tools
+- 🌐 **IP & Log Analyzer (Coming Soon)**  
+  *Detects suspicious IPs and attack patterns from system logs.*
 
-- **Programming**: Python  
-- **OS**: Linux (Kali Linux)  
-- **Domains**:
-  - Digital Forensics
-  - SOC Analysis
-  - Malware Behavior Analysis
-- **Tools & Concepts**:
-  - Log analysis
-  - Regex
-  - File system artifacts
-  - Browser forensic artifacts
+More coming soon... 🚧
 
 ---
 
 ## 🤝 Let's Connect
+- 🔗 **LinkedIn**:  
+  https://www.linkedin.com/in/dhruvik-variya
 
-🔗 **LinkedIn**: www.linkedin.com/in/dhruvik-variya
+- 💻 **GitHub**:  
+  https://github.com/Dhruvik090
 
 ---
 
-⚠️ **Disclaimer**  
-All projects are developed **strictly for educational, ethical, and research purposes only**.
-
-🛡️ *"Understanding attacks is the first step to defending systems."*
+> 🧠 *“Automating security today to defend better tomorrow.”*
